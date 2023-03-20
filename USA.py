@@ -1,4 +1,4 @@
-# Encoded By : YOUR DAD' UMAIR:XD
+# Encoded By : YOUR DAD' UMAIR:)XD
 # Encryption : Py3 Marshal
 # Py3 Version : 3.11
 
